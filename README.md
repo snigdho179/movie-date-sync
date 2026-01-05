@@ -1,4 +1,4 @@
-![Project Screenshot](PUT_YOUR_SCREENSHOT_LINK_HERE)
+![Project Screenshot](https://github.com/snigdho179/movie-date-sync/blob/main/Movie%20Date%20screenshot.jpeg)
 
 ### 🔴 [Click Here to Try the Live App (Netlify)](https://our-movie-date-179.netlify.app/)
 
